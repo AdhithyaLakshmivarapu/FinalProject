@@ -1,0 +1,12 @@
+text_data
+"In the past, Hancitor was sent as a malicious attachment in a spam email which would then download and install the attackers’ final malware like a banking Trojan."
+They grouped these vulnerabilities under the names “Spectre” (CVE-2017-5753 and CVE-2017-5715) and “Meltdown” (CVE-2017-5754).
+"This post was substantially updated March 31 to add information on phishing and scam attacks, cybersquatting trends, fake donation websites, DoS attacks on Ukrainian news sites and distribution of malicious binaries."
+"Early in 2010, CVE-2010-1622 was assigned to a remote code execution vulnerability in the Spring Framework."
+"Tropic Trooper, a threat actor group that targets government, military, healthcare, transportation, and high-tech industries in Taiwan, the Philippines, and Hong Kong, has been active since 2011."
+"Based on the controller’s behavior, we can posit that both Marade and Protux were authored by the same threat actors."
+"Using our PoC, we created the following demonstration video of how a malicious actor would exploit the CVE-2021-32648 vulnerability, log into the compromised OctoberCMS account and to deface a web page hosted by the server:"
+"When it is loaded by the system, DLLMain decrypts the payload via CryptUnprotectData."
+" We found that the threat actors used vulnerable Internet Information Services (IIS) server and Exchange server vulnerabilities as entry points, and then installed web shells."
+"Using AutoFocus to quickly search and correlate artifacts across the collective set of WildFire and other Palo Alto Networks threat intelligence, we were able to associate the attacks with the group publicly known as “DragonOK.”"
+"Recently observed IPs used in Curious Gorge campaigns: COLDRIVER, a Russian-based threat actor sometimes referred to as Calisto, has launched credential phishing campaigns, targeting several US based NGOs and think tanks, the military of a Balkans country, and a Ukraine based defense contractor."

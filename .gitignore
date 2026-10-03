@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# CatBoost training outputs
+catboost_info/
+RealtimeCyberThreat/catboost_info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS generated files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+Desktop.ini
+.DS_Store
+
+# Large model weights (>100MB)
+*.hdf5
+*.h5
